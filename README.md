@@ -7,3 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # alab-320h-1-2-react
+
+# [Netlify Live Link](https://amberroberts-alab320h2.netlify.app/)
+# [GitHub Pages Live Link](https://alab-320h-1-2-html-css.io/)
+# [GitHub Link of HTML Version](https://github.com/amberimani34/alab-320h-1-2-html-css.git)

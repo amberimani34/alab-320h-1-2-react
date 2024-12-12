@@ -1,0 +1,95 @@
+#root {
+background-color: white;
+}
+
+
+body {
+  min-height: 100vh;
+  font-family: sans-serif;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app {
+  border-left: 5px solid lightgray;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+h1 {
+  color: tomato;
+  font-size: 70px;
+  font-weight: lighter;
+}
+
+.img {
+  width: 100%;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+}
+
+.top a {
+  color: lightgray;
+}
+
+.bottom a {
+  color: tomato;
+  text-decoration: none;
+}
+
+.datetime {
+  font-size: 30px;
+  color: lightgray;
+  
+}
+
+.title {
+  font-size: 50px;
+  font-weight: lighter;
+}
+
+.continue {
+  display: flex;
+  font-weight: bold;
+  text-decoration: none;
+  color: tomato;
+  justify-content: end;
+}
+
+.article {
+  margin-bottom: 4rem;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 2rem;
+}
+
+.par {
+  color: lightgray;
+}
+
+.par::first-letter {
+  color: lightgray;
+  font-size: 325%;
+  padding: 6px 3px;
+  margin-right: 6px;
+  float: left;
+}
+
+.copyright {
+  color: lightgray;
+}
